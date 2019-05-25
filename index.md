@@ -1,6 +1,5 @@
 ---
 title: Seven New Book Shelves
-layout: post
 ---
 ## Welcome to GitHub Pages
 
