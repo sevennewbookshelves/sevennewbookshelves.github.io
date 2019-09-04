@@ -7,5 +7,6 @@ Om alleen de wiki-pagina's te lezen kunnen ook de links hieronder gevolgd worden
 * [Python Snippets](Python-Snippets.md)
 * [Open Data](Open-data.md)
 * [Data ethics](Data-Ethics.md)
+* [Show and tell](Show-and-tell.md)
 
 Heb je een onderwerp waar je meer over zou willen weten? Maak dan een issue aan en misschien heeft iemand tips voor je.
