@@ -1,5 +1,5 @@
-Heb je in je vrije tijd een interessant project geschreven? Deel het hier! Het is altijd leuk om van elkaar te leren en ideeën uit te wisselen.
+Heb je een interessant project uitgevoerd of programma geschreven? Deel het hier! Het is altijd leuk om van elkaar te leren en ideeën uit te wisselen.
 
-### [wikiToPage](https://github.com/alexanderharms/wikiToPage)
-Om de beginselen van Bash-scripting onder de knie te krijgen heb ik een kort scriptje geschreven dat de pagina's van de Wiki via git binnenhaalt en vervolgens via git weer toevoegt aan de GitHub-page.
+### [wikiToPage](https://github.com/alexanderharms/wikiToPage) 
 
+Om een beetje Bash-scripting te leren heb ik een scriptje geschreven dat via git de Wiki-pagina's binnenhaalt en via git ook weer op de GitHub-pagina zet.
