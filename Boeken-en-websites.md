@@ -32,5 +32,9 @@ Een gids tot het opzetten van een onderhoudbaar open source-project van het Neth
 
 Om vooruit te gaan moet je blijven innoveren. Om dit na te streven is binnen de Rijksoverheid de Rijks Innovatie Community opgezet. Door middel van een samenwerking tussen de Uitvoeringsorganisatie Bedrijfsvoering Rijk en de Universiteit Leiden is ook de Innovatietoolkit ontwikkeld. Deze 'toolkit' bestaat uit vele denk-opdrachten om innovatie te stimuleren.
 
+## Website: [Choose A Licence](https://choosealicense.com/) 
+
+Als je een open source-project online wilt zetten, dan is het belangrijk dat je de juiste licentie kiest. Op deze manier geef je anderen de vrijheid om je code opnieuw te gebruiken, en je geeft ook aan tot hoe ver deze vrijheid gaat.
+
 ## Linux 
 * Tutorial/naslagwerk voor ['grep'](http://www.grymoire.com/Unix/Grep.html) en ['sed'](http://www.grymoire.com/Unix/Sed.html). Ook al zijn grep en sed meer dan 44 jaar oud, ze worden nog steeds veelvuldig gebruikt voor het zoeken in en het aanpassen van tekstbestanden. Dit komt omdat ze erg krachtig en efficiënt zijn en meegeleverd worden in iedere Linux-distributie. Deze tutorials introduceren stukje bij beetje de enorme set aan features van deze programma's.
