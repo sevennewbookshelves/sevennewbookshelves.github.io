@@ -2,7 +2,7 @@ To share some knowledge; check out the [wiki](https://github.com/sevennewbookshe
 
 Om alleen de wiki-pagina's te lezen kunnen ook de links hieronder gevolgd worden.
 * [Home](Home.md)
-* [Boeken](Boeken.md)
+* [Boeken en websites](Boeken-en-websites.md)
 * [R Snippets](R-Snippets.md)
 * [Python Snippets](Python-Snippets.md)
 * [Open Data](Open-data.md)
