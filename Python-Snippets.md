@@ -7,3 +7,7 @@ Op deze pagina vind je een lijst met links naar handige Python snippets
 
 * Run een python script, open python na laatste line in script:
 `python -i <scriptname.py>`
+
+* [Controleer of een proces draait op je computer](https://gist.github.com/jeroendelfos/0add1e54d882aff75acd99d2b604d2f4)
+
+* [Maak een grafiek met een scheurlijn in de y-as](https://gist.github.com/jeroendelfos/539eab0b0bb712b705a249b397408cde)
