@@ -24,9 +24,17 @@ In technische velden is het Kalman filter een term die vaak voorbij komt vliegen
 
 Kaggle is vooral bekend om de grote hoeveelheid Machine Learning-competities en datasets die beschikbaar zijn op het platform. Zij bieden echter ook een aantal goed toegankelijke introductiecurssusen voor Machine Learning in Python. Een inleiding op o.a. het gebruik van scikit-learn en Keras en het toepassen van One Hot Encoding en imputatie komen voorbij.
 
+### YouTube: [Neural Networks, van 3blue1brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
+
+Een reeks van 4 video's waar op een toegankelijke manier wordt ingegaan op de wiskunde achter neurale netwerken. De maker 3blue1brown staat bekend om zijn heldere, visuele uitleg van wiskundige principes.
+
 ### Website: [Guide to software development, Netherlands eScience Center](https://guide.esciencecenter.nl/) 
 
 Een gids tot het opzetten van een onderhoudbaar open source-project van het Netherlands eScience Center. De gids geeft o.a. tips voor code review, testing & continuous integration en hoe om te gaan met releases. 
+
+### Artikel: [Ten Simple Rules for Reproducible Computational Research](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003285)
+
+In de wetenschap is het belangrijk dat onderzoeken repliceerbaar zijn. Dit geldt natuurlijk ook voor data science. In dit artikel worden 10 tips genoemd die je kunnen helpen in het repliceerbaar maken van je onderzoek zodat je het zelf of iemand anders nog eens kan herhalen.
 
 ### Website: [Rijks Innovatie Community](https://www.rijksinnovatiecommunity.nl/) en de [Innovatietoolkit](http://www.innovatietoolkit.org/) 
 
