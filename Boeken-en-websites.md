@@ -20,14 +20,6 @@ Voor iedereen die zichzelf graag Computer Science wilt leren maar niet weet waar
 
 In technische velden is het Kalman filter een term die vaak voorbij komt vliegen maar zelden ook direct uitgelegd wordt. Deze blog-post laat aan de hand van een mooi voorbeeld zien dat de Kalman filter-techniek erop gebaseerd is op het terugvinden van een onderliggende, veranderende, _state_ waar alleen meetwaarden met ruis van beschikbaar zijn. 
 
-### Website: [Introductiecursussen Machine Learning, door Kaggle.com](https://www.kaggle.com/learn/overview) 
-
-Kaggle is vooral bekend om de grote hoeveelheid Machine Learning-competities en datasets die beschikbaar zijn op het platform. Zij bieden echter ook een aantal goed toegankelijke introductiecurssusen voor Machine Learning in Python. Een inleiding op o.a. het gebruik van scikit-learn en Keras en het toepassen van One Hot Encoding en imputatie komen voorbij.
-
-### YouTube: [Neural Networks, van 3blue1brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
-
-Een reeks van 4 video's waar op een toegankelijke manier wordt ingegaan op de wiskunde achter neurale netwerken. De maker 3blue1brown staat bekend om zijn heldere, visuele uitleg van wiskundige principes.
-
 ### Website: [Guide to software development, Netherlands eScience Center](https://guide.esciencecenter.nl/) 
 
 Een gids tot het opzetten van een onderhoudbaar open source-project van het Netherlands eScience Center. De gids geeft o.a. tips voor code review, testing & continuous integration en hoe om te gaan met releases. 
@@ -40,9 +32,27 @@ In de wetenschap is het belangrijk dat onderzoeken repliceerbaar zijn. Dit geldt
 
 Om vooruit te gaan moet je blijven innoveren. Om dit na te streven is binnen de Rijksoverheid de Rijks Innovatie Community opgezet. Door middel van een samenwerking tussen de Uitvoeringsorganisatie Bedrijfsvoering Rijk en de Universiteit Leiden is ook de Innovatietoolkit ontwikkeld. Deze 'toolkit' bestaat uit vele denk-opdrachten om innovatie te stimuleren.
 
+### Artikel: [Hergebruik van publieke data](https://knaw.nl/nl/actueel/publicaties/hergebruik-van-publieke-data) van het KNAW
+
+De Koninklijke Nederlandse Akademie van Wetenschappen geeft in dit artikel hun advies op het gebruik van publieke data voor wetenschappelijke doeleinden.
+
 ### Website: [Choose A Licence](https://choosealicense.com/) 
 
 Als je een open source-project online wilt zetten, dan is het belangrijk dat je de juiste licentie kiest. Op deze manier geef je anderen de vrijheid om je code opnieuw te gebruiken, en je geeft ook aan tot hoe ver deze vrijheid gaat.
+
+## Machine Learning en Artificial Intelligence
+
+### Website: [Introductiecursussen Machine Learning, door Kaggle.com](https://www.kaggle.com/learn/overview) 
+
+Kaggle is vooral bekend om de grote hoeveelheid Machine Learning-competities en datasets die beschikbaar zijn op het platform. Zij bieden echter ook een aantal goed toegankelijke introductiecurssusen voor Machine Learning in Python. Een inleiding op o.a. het gebruik van scikit-learn en Keras en het toepassen van One Hot Encoding en imputatie komen voorbij.
+
+### YouTube: [Neural Networks, van 3blue1brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
+
+Een reeks van 4 video's waar op een toegankelijke manier wordt ingegaan op de wiskunde achter neurale netwerken. De maker 3blue1brown staat bekend om zijn heldere, visuele uitleg van wiskundige principes.
+
+### Website: [Arxiv-Sanity](http://www.arxiv-sanity.com/) 
+
+Op Arxiv-Sanity kan men een mooi overzicht vinden van de nieuwe papers op het gebied van Machine Learning en Artificial Intelligence e.d. op [ArXiv](https://arxiv.org/). Ook zijn er lijsten van de 'top' en 'most hyped' papers in de afgelopen periode te vinden. In deze lijsten worden de papers getoond die gebruikers het vaakst toegevoegd hebben aan de eigen bibliotheek en over welke papers het meest getweet wordt.
 
 ## Linux 
 * Tutorial/naslagwerk voor ['grep'](http://www.grymoire.com/Unix/Grep.html) en ['sed'](http://www.grymoire.com/Unix/Sed.html). Ook al zijn grep en sed meer dan 44 jaar oud, ze worden nog steeds veelvuldig gebruikt voor het zoeken in en het aanpassen van tekstbestanden. Dit komt omdat ze erg krachtig en efficiënt zijn en meegeleverd worden in iedere Linux-distributie. Deze tutorials introduceren stukje bij beetje de enorme set aan features van deze programma's.

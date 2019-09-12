@@ -1,6 +1,7 @@
 Plaats hier links naar openbare datasets. Deze kunnen van bedrijven, overheidsinstanties of andere organisaties zijn.
 
 * [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets) 
+* [Wikipedia: List of datasets for machine-learning research](https://en.m.wikipedia.org/wiki/List_of_datasets_for_machine-learning_research)
 
 Voor software omtrent officiële statistiek, zie ook [Awesome Official Statistics Software](https://github.com/SNStatComp/awesome-official-statistics-software).
 
