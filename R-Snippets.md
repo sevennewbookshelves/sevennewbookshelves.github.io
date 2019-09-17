@@ -4,7 +4,7 @@
 * Vignettes in het algemeen. Bij een R package is het mogelijk om een demonstratie van het package mee te leveren in de vorm van een 'vignette'. Deze zijn te openen in Rstudio d.m.v. `vignette('package_name')`. Ze staan ook online op de CRAN pagina, bijv. voor [dplyr](https://cran.r-project.org/web/packages/dplyr/index.html).
 * [_R Packages_, van Hadley Wickham](http://r-pkgs.had.co.nz/) Het is aan te raden om een idee te krijgen van de opbouw van R packages. Naast dat het een handige, gestandaardiseerde, manier is om je projecten in te delen, geeft het je ook houvast als je in de code van bestaande packages wilt duiken om eens te kijken wat er eigenlijk gebeurd.
 * [_Advanced R, 2nd ed._, van Hadley Wickham](https://adv-r.hadley.nz/)([1st ed.](http://adv-r.had.co.nz/)) Voor degene die een beter inzicht willen in hoe R onder de motorkap functioneert en die meer willen doen met R. Er wordt bijvoorbeeld ingegaan op memory management binnen R, het 'copy on modify'-principe (hierdoor zijn for-loops vaak traag in R), object-oriented programming binnen R en het implementeren van C++-code in R via Rcpp voor een grote snelheidsboost als for-loops onvermijdelijk zijn. 
-
+* [GIS in R](http://www.nickeubank.com/gis-in-r/) Een introductie tot GIS in R.
 
 ***
 
